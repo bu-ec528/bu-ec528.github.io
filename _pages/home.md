@@ -8,7 +8,7 @@ permalink: /
 
 ### About Me
 
-I am a postdoctoral researcher working with [Prof. Baris Kasici](https://homes.cs.washington.edu/~baris/) in the UW Systems Lab at the University of Washington. I earned my computer science Ph.D. from Johns Hopkins University in May 2023 where I worked with [Prof. Ryan Huang](https://web.eecs.umich.edu/~ryanph/). 
+I am a postdoctoral researcher working with [Prof. Baris Kasikci](https://homes.cs.washington.edu/~baris/) in the UW Systems Lab at the University of Washington. I earned my computer science Ph.D. from Johns Hopkins University in May 2023 where I worked with [Prof. Ryan Huang](https://web.eecs.umich.edu/~ryanph/). 
 
 My research is centered around the detection, diagnosis, and mitigation of systems performance issues. In my Ph.D. work, I developed principled approaches to improve the systems performance. Specifically, I contributed to the following areas:
 - Intra-application performance interference: \[[pBox SOSP'23](https://dl.acm.org/doi/10.1145/3600006.3613159)\],\[[vprof Eurosys'23](https://dl.acm.org/doi/abs/10.1145/3552326.3587444)\]
@@ -79,7 +79,7 @@ I am currently focused on mitigating intra-application performance interference,
 
 ## Bio
 
-I received my Ph.D. from Johns Hopkins University in June 2023, advised by Prof. Ryan (Peng) Huang. I obtained my B.E. degree in Computer Science from Huazhong University of Science & Technology in 2017. When I was in HUST, I was fortunately worked with Prof. Hai Jin and Prof. Deqin Zou in the Cluster and Grid Computing Lab and [Prof. Shan Lu](https://people.cs.uchicago.edu/~shanlu/) at University of Chicago.
+I received my Ph.D. from Johns Hopkins University in June 2023, advised by Prof. Ryan (Peng) Huang. I obtained my B.E. degree in Computer Science from Huazhong University of Science & Technology in 2017. When I was in HUST, I was fortunately worked with Prof. Hai Jin and Prof. Deqing Zou in the Cluster and Grid Computing Lab and [Prof. Shan Lu](https://people.cs.uchicago.edu/~shanlu/) at University of Chicago.
 
 - My favorite proverb is "The scholar may not be without breadth of mind and vigorous endurance." from The Analects of Confucius. 
 - If I don't do research, I would spend my time in reading history book, caring for my goldfish, playing Go and most importantly, spend time with my wife and kid.
