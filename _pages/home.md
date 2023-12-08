@@ -39,7 +39,7 @@ I am currently focused on mitigating intra-application performance interference,
 
 [Pushing Performance Isolation Boundaries into Application with pBox](../paper/pbox_sosp23.pdf) \\
   **Yigong Hu**, Gongqi Huang, Peng Huang \\
-  **SOSP 2023** \[ [talk](https://www.youtube.com/watch?v=hVMC_Ms8-rk&t=410s) [slides](..) [software](https://github.com/OrderLab/pBox)\]
+  **SOSP 2023** \[ [talk](https://www.youtube.com/watch?v=hVMC_Ms8-rk&t=410s) [slides](../paper/pbox_sosp23_slides.pdf) [software](https://github.com/OrderLab/pBox)\]
 
 [Effective Performance Issue Diagnosis with Value-Assisted Cost Profiling](../paper/vprof_eurosys23.pdf) \\
    Lingmei Weng, **Yigong Hu**, Peng Huang, Jason Nieh, Junfeng Yang \\
@@ -55,7 +55,7 @@ I am currently focused on mitigating intra-application performance interference,
 
 [A Case for Lease-Based, Utilitarian Resource Management on Mobile Devices](../paper/leaseos-asplos19.pdf) [Best Paper Award] \\
 **Yigong Hu**, Suyi Liu, Peng Huang \\
-**ASPLOS 2019**  \[ [talk](https://www.youtube.com/watch?v=eA7RMhmj7S8)  [slides](../paper/leaseos_asplos19_slides.pptx) [software](https://orderlab.io/LeaseOS/)\] 
+**ASPLOS 2019**  \[ [talk](https://www.youtube.com/watch?v=eA7RMhmj7S8)  [slides](../paper/leaseos_asplos19_slides.pdf) [software](https://orderlab.io/LeaseOS/)\] 
 
 
 
