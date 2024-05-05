@@ -79,8 +79,8 @@ I am currently focused on mitigating intra-application performance interference,
 
 ## Bio
 
-I received my Ph.D. from Johns Hopkins University in June 2023, advised by Prof. Ryan (Peng) Huang(https://web.eecs.umich.edu/~ryanph/). I obtained my B.E. degree in Computer Science from Huazhong University of Science & Technology in 2017. When I was in HUST, I was fortunately worked with Prof. Hai Jin and Prof. Deqing Zou in the Cluster and Grid Computing Lab and [Prof. Shan Lu](https://people.cs.uchicago.edu/~shanlu/) at University of Chicago.
+I received my Ph.D. from Johns Hopkins University in June 2023, advised by [Prof. Ryan (Peng) Huang](https://web.eecs.umich.edu/~ryanph/). I obtained my B.E. degree in Computer Science from Huazhong University of Science & Technology in 2017. When I was in HUST, I was fortunately worked with Prof. Hai Jin and Prof. Deqing Zou in the Cluster and Grid Computing Lab and [Prof. Shan Lu](https://people.cs.uchicago.edu/~shanlu/) at University of Chicago.
 
 - My favorite proverb is "The scholar may not be without breadth of mind and vigorous endurance." from The Analects of Confucius. 
-- If I don't do research, I would spend my time in reading history book, caring for my goldfish, playing Go and most importantly, spend time with my wife(https://gigi520.love/) and kid.
+- If I don't do research, I would spend my time in reading history book, caring for my goldfish, playing Go and most importantly, spend time with [my wife](https://gigi520.love/) and kid.
 
