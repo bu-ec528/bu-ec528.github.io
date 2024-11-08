@@ -70,10 +70,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/gongxini"
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: "http://yigongh@bu.edu"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:yigongh@bu.edu"
     - label: "CV"
-      icon: "fab fa-fw fa-briefcase"
+      icon: "fas fa-fw fa-briefcase"
       url: "../paper/cv.pdf"
 
 footer:
