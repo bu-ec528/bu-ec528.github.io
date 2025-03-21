@@ -20,7 +20,7 @@ I am currently focused on mitigating intra-application performance interference,
 <!-- **Update: <span style="color:#8B0000;">I will be an Assistant Professor at ECE@Boston University, starting in Fall 2025.  Our lab has multiple Ph.D. student positions. If you are interested in building/hacking systems, we should talk.</span>** -->
 
 ### News 
-
+- [02/2025] I will serve in the ASPLOS'26 program committees
 - [11/2023] My proposal on diagnosing intra-application performance interference is awarded Azure Cloud Credits.
 - [07/2023] pBox, our work on pushing performance isolation boundaries into application, is accepted to appear at [SOSP 2023](https://sosp2023.mpi-sws.org/index.html).
 - [06/2023] I passed my Ph.D. defense and will join University of Washington as a postdoc. 
