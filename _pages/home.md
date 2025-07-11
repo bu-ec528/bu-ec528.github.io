@@ -23,6 +23,8 @@ I’m currently looking for self-motivated students (undergraduate, master’s, 
 <!-- **Update: <span style="color:#8B0000;">I will be an Assistant Professor at ECE@Boston University, starting in Fall 2025.  Our lab has multiple Ph.D. student positions. If you are interested in building/hacking systems, we should talk.</span>** -->
 
 ### News 
+- [07/2025] Atropos(Overload control with targeted task cancellation) is accepted by [SOSP 2025](https://sigops.org/s/conferences/sosp/2025/).
+- [07/2025] After two wonderful years in Seattle, I will join Boston University this summer.  
 - [02/2025] I will serve in the ASPLOS'26 program committees
 - [11/2023] My proposal on diagnosing intra-application performance interference is awarded Azure Cloud Credits.
 - [07/2023] pBox, our work on pushing performance isolation boundaries into application, is accepted to appear at [SOSP 2023](https://sosp2023.mpi-sws.org/index.html).
