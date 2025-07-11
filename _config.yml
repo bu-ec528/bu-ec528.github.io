@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Yigong Hu"
-  avatar : "/images/photo.jpg"
+  avatar : "/images/photo.jpeg"
   bio    : "Assistant Professor"
   links:
     - label: "Boston University "
