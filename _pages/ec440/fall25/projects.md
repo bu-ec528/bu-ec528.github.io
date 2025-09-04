@@ -28,7 +28,7 @@ There are five labs in total. Lab0 is designed to prepare you for the later proj
 
 | Project  | Release | Due | Content | Point |
 |----------------| ----------------| ----------------|
-| [Lab 0: Getting Real](./projects/lab0.md) | 09/03 | 09/19 11:59 am EST | Bootstrap Pintos | 6 |
+| [Lab 0: Getting Real](./projects/lab0.md) | 09/03 | 09/19 11:59 PM EST | Bootstrap Pintos | 6 |
 | Lab 1: Threads | |
 | Lab 2: User Programs | |
 | Lab 3a: Virtual Memory |  |

@@ -42,7 +42,7 @@ Now you own a tiny Ubuntu OS inside your host computer, and you can shut it down
 
 ### Option B (recommended for macOS and Windows): Virtual Machine
 
-For macOS users, Docker may not work as expected. If you encounter issues, you can use a virtual machine for development. We provides a [UTM](https://mac.getutm.app/) running Ubuntu 18.04 with the necessary toolchain installed. You can download the image [here](https://bushare-my.sharepoint.com/:u:/r/personal/yigongh_bu_edu/Documents/BUEC440.utm.zip?csf=1&web=1&e=b5ioqF). The image is large (5 GB), so the download may take some time. The initial login password is `buec440`.
+For macOS users, Docker may not work as expected. If you encounter issues, you can use a virtual machine for development. We provides a [UTM](https://mac.getutm.app/) running Ubuntu 18.04 with the necessary toolchain installed. You can download the image [here](https://bushare-my.sharepoint.com/:u:/g/personal/yigongh_bu_edu/EZX92xAMrqFHkl3Jh-CVswUBQQ1qfGbXlqcWqPoIEfHBuA). The image is large (5 GB), so the download may take some time. The initial login password is `buec440`.
 
 ### Option C: Build Your Own Machine
 
