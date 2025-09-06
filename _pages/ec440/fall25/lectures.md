@@ -11,7 +11,7 @@ layout: single
 | Week   | Date       | Lecture Title | Slides | Readings | Assignments |
 |--------|------------|---------------|--------|----------|-------------|
 | Week 1 | 09/03 Wed  | Course Introduction | [Slides](./slides/1-introduction.pdf) | [Chapter 1](https://pages.cs.wisc.edu/~remzi/OSTEP/dialogue-threeeasy.pdf), [Chapter 2](https://pages.cs.wisc.edu/~remzi/OSTEP/intro.pdf) | Lab 0 released |
-| Week 2 | 09/08 Mon  | TBD | | | |
+| Week 2 | 09/08 Mon  | System Call and Architectural Support | | | |
 |        | 09/10 Wed  | TBD | | | |
 | Week 3 | 09/15 Mon  | TBD | | | |
 |        | 09/17 Wed  | TBD | | | |
@@ -22,7 +22,7 @@ layout: single
 |        | 10/01 Wed  | TBD | | | |
 | Week 6 | 10/06 Mon  | TBD | | | |
 |        | 10/08 Wed  | TBD | | | |
-| Week 7 | 10/13 Mon  | TBD | | | |
+| Week 7 | 10/14 Tue  | TBD | | | |
 |        | 10/15 Wed  | TBD | | | |
 | Week 8 | 10/20 Mon  | TBD | | | |
 |        | 10/22 Wed  | TBD | | | |
@@ -34,8 +34,7 @@ layout: single
 |        | 11/12 Wed  | TBD | | | |
 | Week 12 | 11/17 Mon  | TBD | | | |
 |        | 11/19 Wed  | TBD | | | |
-| Week 13 | 11/24 Mon  | TBD | | | |
-|        | 11/26 Wed  | TBD | | | |
+| Week 13 | 11/24 - 11/30  | Thanksgiving Break | | | Food, sleep, lots of it|
 | Week 14 | 12/01 Mon  | TBD | | | |
 |        | 12/03 Wed  | TBD | | | |
 | Week 15 | 12/08 Mon  | TBD | | | |
