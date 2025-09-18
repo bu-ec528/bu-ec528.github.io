@@ -39,5 +39,4 @@ layout: single
 | Week 14 | 12/01 Mon  | Mobile and Distributed System | | |  <span style="color:red">Lab 3a due</span> |
 |        | 12/03 Wed  | System Reliability | | | |
 | Week 15 | 12/08 Mon  |  Final Review | | | |
-|         | 12/10 Wed  |   <span style="color:red"> **Final Exam** <span style="color:red"> | | | |
-|         | 12/12 Fri  |  | | | <span style="color:red">Lab 3b due</span>  |
+|         | 12/10 Wed  |   <span style="color:red"> **Final Exam** <span style="color:red"> | | |  <span style="color:red">Lab 3b due</span> |
