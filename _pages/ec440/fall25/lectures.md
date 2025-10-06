@@ -20,7 +20,7 @@ layout: single
 |        | 09/24 Wed  | Semaphores and Monitors | [Slides](./slides/7-semaphores.pdf) | [Chapter 30](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-cv.pdf), [Chapter 31](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-sema.pdf) | |
 | Week 5 | 09/29 Mon  | Synchronization Exercises | [Slides](./slides/8-exercises.pdf) |  | |
 |        | 10/01 Wed  | Deadlock | [Slides](./slides/9-deadlock.pdf) | [Chapter 32](https://pages.cs.wisc.edu/~remzi/OSTEP/threads-bugs.pdf)| |
-| Week 6 | 10/06 Mon  | Virtual Memory I | | [Chapter 15](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanism.pdf), [Chapter 16](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-segmentation.pdf), [Chapter 18](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf)| |
+| Week 6 | 10/06 Mon  | Virtual Memory I |  [Slides](./slides/10-vm1.pdf) | [Chapter 15](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-mechanism.pdf), [Chapter 16](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-segmentation.pdf), [Chapter 18](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf)| |
 |        | 10/08 Wed  | Lab day| | | |
 |        | 10/13 Sun  |     | | | <span style="color:red">Lab 1 due</span>, Lab 2 released | 
 |  Week 7    | 10/14 Tue  | Virtual Memory II | | [Chapter 19](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-tlbs.pdf), [Chapter 20](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-smalltables.pdf)| |
