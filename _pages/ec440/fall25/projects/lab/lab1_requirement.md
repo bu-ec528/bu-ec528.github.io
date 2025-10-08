@@ -6,6 +6,16 @@ classes: ec440-page
 layout: single
 ---
 
+# Submission Instruction
+We will be using [GitHub classroom](https://classroom.github.com/a/kYV5Orqs) to distribute and collect assignments. You do not have to do anything special to submit your project. We will use a snapshot of your GitHub repository as it exists at the deadline, and grade that version. You can still make changes to your repository after the deadline. But we will be only using the snapshot of your code as of the deadline.
+
+We will collect your solution automatically through GitHub by taking a snapshot by the deadline. Thus, be sure to commit your changes and do a <span style="color:Crimson;">**git push**</span> to GitHub, especially in the last few minutes! <span style="color:Crimson;">**Your submission must reside in a branch called lab1-handin**</span>. You can create this branch with <span style="color:Crimson;">**git checkout -b lab1-handin**</span>. You can use other branches (e.g., <span style="color:Crimson;">**main**</span> or <span style="color:Crimson;">**lab1-dev**</span>) during development, but be sure to sync these changes to the submission branch with <span style="color:Crimson;">**git checkout lab1-handin**</span> then <span style="color:Crimson;">**git merge <branch_name>**</span>.
+
+Double check that your submission resides in the correct branch <span style="color:Crimson;">**lab1-handin**</span> (note the middle part is a dash -, not underscore) by the deadline. Using a different branch name will result in failure to collect and grade your submission in time.
+
+If you decide to use the late hour tokens, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSci8AO4w-q_S-yxs4dTtt2ulYwnJl2aHqHc8tVWlJsfCuZAGA/viewform?usp=header) before the deadline, so that we won't be collecting and grading your solution immediately. When you finish (within the token limit), fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfEN3MpgJ0FnWwg12-JK73pmQThRSpsGvV8wfmZTXl78vSIPg/viewform?usp=header) to indicate you are done. <span style="color:Crimson;">**Don't forget to fill out the form for the second time to avoid leaking your late tokens.**</span>
+
+
 # Project 1 Requirement 
 
 ## Suggested Order of Implementation
@@ -19,6 +29,7 @@ We suggest first implementing the following, which can happen in parallel:
 Then you can add full support for priority scheduling in Exercise 2.1 by considering all other possible scenarios and the synchronization primitives.
 
 Then you can tackle either Exercise 3.1 first or Exercise 2.2 first.
+
 
 ## Task 0: Design Document
 
@@ -211,11 +222,3 @@ Some simple mistake in these routines could result in mysterious issues in your 
 
 <span style="color:red;">**The advanced scheduler is not used in any later project.**</span>
 
-## Submission Instruction
-We will be using [GitHub classroom](https://classroom.github.com/a/kYV5Orqs) to distribute and collect assignments. You do not have to do anything special to submit your project. We will use a snapshot of your GitHub repository as it exists at the deadline, and grade that version. You can still make changes to your repository after the deadline. But we will be only using the snapshot of your code as of the deadline.
-
-We will collect your solution automatically through GitHub by taking a snapshot by the deadline. Thus, be sure to commit your changes and do a git push to GitHub, especially in the last few minutes! Your submission must reside in a branch called lab1-handin. You can create this branch with git checkout -b lab1-handin. You can use other branches (e.g., master or lab1-dev) during development, but be sure to sync these changes to the submission branch with git checkout lab1-handin then git merge <branch_name>.
-
-Double check that your submission resides in the correct branch lab1-handin (note the middle part is a dash -, not underscore) by the deadline. Using a different branch name will result in failure to collect and grade your submission in time.
-
-If you decide to use the late hour tokens, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSci8AO4w-q_S-yxs4dTtt2ulYwnJl2aHqHc8tVWlJsfCuZAGA/viewform?usp=header) before the deadline, so that we won't be collecting and grading your solution immediately. When you finish (within the token limit), fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfEN3MpgJ0FnWwg12-JK73pmQThRSpsGvV8wfmZTXl78vSIPg/viewform?usp=header) to indicate you are done. <span style="color:red;">**Don't forget to fill out the form for the second time to avoid leaking your late tokens.**</span>
