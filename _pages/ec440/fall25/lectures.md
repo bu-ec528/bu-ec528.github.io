@@ -6,7 +6,7 @@ classes: ec440-page
 layout: single
 ---
 
-# Lecture
+# Lectures
 
 | Week   | Date       | Lecture Title | Slides | Readings | Assignments |
 |--------|----------|--------------------|--------|-----------------------------------------|--------|
@@ -27,15 +27,15 @@ layout: single
 |        | 10/15 Wed  | Page Replacement | [Slides](./slides/12-vm_policy.pdf) | [Chapter 21](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys.pdf), [Chapter 22](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-beyondphys-policy.pdf), [Chapter 23](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-vax.pdf) | |
 | Week 8 | 10/20 Mon  | Midterm Review | | | |
 |        | 10/22 Wed  | <span style="color:red"> **Midterm Exam**  <span style="color:red"> | | | |
-| Week 9 | 10/27 Mon  | Dynamic Memory Allocation | | [Chapter 14](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf), [Chapter 17](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-freespace.pdf)| |
-|        | 10/29 Wed  | IO & Disks | | [Chapter 36](https://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf), [Chapter 37](https://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf) | |
-| Week 10 | 11/03 Mon | File Systems | | [Chapter 39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf) | |
+| Week 9 | 10/27 Mon  | Notes for Pintos  | | | |
+|        | 10/29 Wed  |  Dynamic Memory Allocation | | [Chapter 14](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf), [Chapter 17](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-freespace.pdf) | |
+| Week 10 | 11/03 Mon | IO & Disks |  | [Chapter 36](https://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf), [Chapter 37](https://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf) | |
 |        | 11/05 Wed  |  Lab day | | | |
 |        | 11/07 Fri  |     | | | <span style="color:red">Lab 2 due</span>, Lab 3 released | 
-| Week 11 | 11/10 Mon  |  File Systems II| | | |
-|        | 11/12 Wed  | File Systems III | | | |
-| Week 12 | 11/17 Mon  | File Systems IV | | | |
-|        | 11/19 Wed  | Lab day | | | |
+| Week 11 | 11/10 Mon  | File Systems |  | [Chapter 39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)| |
+|        | 11/12 Wed  | File Systems II | | | |
+| Week 12 | 11/17 Mon  | File Systems III | | | |
+|        | 11/19 Wed  | File Systems IV | | | |
 | Week 13 | 11/24 - 11/30  | Thanksgiving Break | | | Food, sleep, lots of it|
 | Week 14 | 12/01 Mon  | System Reliability | | |  <span style="color:red">Lab 3a due</span> |
 |        | 12/03 Wed  |  Mobile System   | | | |
