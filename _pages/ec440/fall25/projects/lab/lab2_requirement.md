@@ -29,7 +29,7 @@ We suggest first implementing the following, which can happen in parallel:
 
 ## Task 0: Design Document
 
-* Download the [project 2 design document template](./userprog.tmpl). Read through it to motivate your design and fill it in after you finish the project.
+* Download the [project 2 design document template](./userprog.tmpl.txt). Read through it to motivate your design and fill it in after you finish the project.
 * We recommend that you read the design document template before you start working on the project.
 * See section [Project Documentation](../reference/documentation.md), for a sample design document that goes along with a fictitious project.
 
