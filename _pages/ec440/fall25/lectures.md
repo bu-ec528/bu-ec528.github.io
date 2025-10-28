@@ -28,7 +28,7 @@ layout: single
 | Week 8 | 10/20 Mon  | Midterm Review | [Slides](./slides/midterm.pdf) | | |
 |        | 10/22 Wed  | <span style="color:red"> **Midterm Exam**  <span style="color:red"> | | | |
 | Week 9 | 10/27 Mon  | Notes for Pintos  |[Slides](./slides/13-pintos.pdf) | | |
-|        | 10/29 Wed  |  Dynamic Memory Allocation | | [Chapter 14](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf), [Chapter 17](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-freespace.pdf) | |
+|        | 10/29 Wed  |  Dynamic Memory Allocation | | [Chapter 14](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-api.pdf), [Chapter 17](https://pages.cs.wisc.edu/~remzi/OSTEP/vm-freespace.pdf), [paper](./slides/wilson.pdf)| |
 | Week 10 | 11/03 Mon | IO & Disks |  | [Chapter 36](https://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf), [Chapter 37](https://pages.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf) | |
 |        | 11/05 Wed  |  Lab day | | | |
 |        | 11/07 Fri  |     | | | <span style="color:red">Lab 2 due</span>, Lab 3 released | 
