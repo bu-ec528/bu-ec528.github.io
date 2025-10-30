@@ -31,7 +31,7 @@ There are five labs in total. Lab0 is designed to prepare you for the later proj
 | [Lab 0: Getting Real](./projects/lab/lab0.md) | 09/03 | 09/19 11:59 PM EST | Bootstrap Pintos | 6 |
 | [Lab 1: Threads](./projects/lab/lab1.md) | 09/17 | 10/13 11:59 PM EST | Kernel Threads Scheduling | 12 |
 | [Lab 2: User Programs](./projects/lab/lab2.md) | 10/13 | 11/07 11:59 PM EST |  User programs, System calls | 12 |
-| Lab 3a: Virtual Memory |  |
+| [Lab 3a: Virtual Memory](./projects/lab/lab3.md)  | 10/29 | 12/01 11:59 PM EST |  Demand Paging | 13 |
 | Lab 3b: Mmap Files |  |
 |(Optional) Lab4: File Systems |
 

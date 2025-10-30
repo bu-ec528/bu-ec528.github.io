@@ -22,3 +22,5 @@ Here is a reference for all the useful materials. The reference guide does not c
 | [A.4 Interrupt Handling](./interrupt-handling.md) |
 | [A.5 Memory Allocation](./memory-allocation.md)|
 | [A.6 Page Table](./page-table.md)|
+| [A.7 Hash Table](./hash-table.md)|
+| [A.8 Virtual Address](./virtual-address.md)|
