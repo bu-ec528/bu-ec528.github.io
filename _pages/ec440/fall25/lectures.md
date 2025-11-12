@@ -33,7 +33,7 @@ layout: single
 |        | 11/05 Wed  |  Lab day | | | |
 |        | 11/07 Fri  |     | | | <span style="color:red">Lab 2 due</span>, Lab 3 released | 
 | Week 11 | 11/10 Mon  | File Systems | [Slides](./slides/16-fs.pdf) | [Chapter 39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)| |
-|        | 11/12 Wed  | File Systems II | | [Chapter 40](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf), [Chapter 41](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf)| |
+|        | 11/12 Wed  | File Systems II | [Slides](./slides/17-fsi.pdf) | [Chapter 40](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf), [Chapter 41](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf)| |
 | Week 12 | 11/17 Mon  | Log Structured FS |  | [Chapter 43](https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf) | |
 |        | 11/19 Wed  | FSCK and Journaling |  | [Chapter 42](https://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf) | |
 | Week 13 | 11/24 - 11/30  | Thanksgiving Break | | | Food, sleep, lots of it|
