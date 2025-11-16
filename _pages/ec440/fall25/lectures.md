@@ -33,11 +33,11 @@ layout: single
 |        | 11/05 Wed  |  Lab day | | | |
 |        | 11/07 Fri  |     | | | <span style="color:red">Lab 2 due</span>, Lab 3 released | 
 | Week 11 | 11/10 Mon  | File Systems | [Slides](./slides/16-fs.pdf) | [Chapter 39](https://pages.cs.wisc.edu/~remzi/OSTEP/file-intro.pdf)| |
-|        | 11/12 Wed  | File Systems II | [Slides](./slides/17-fsi.pdf) | [Chapter 40](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf), [Chapter 41](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf)| |
-| Week 12 | 11/17 Mon  | Log Structured FS |  | [Chapter 43](https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf) | |
-|        | 11/19 Wed  | FSCK and Journaling |  | [Chapter 42](https://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf) | |
+|        | 11/12 Wed  | File Systems II | [Slides](./slides/17-fsi.pdf) | [Chapter 40](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf) | |
+| Week 12 | 11/17 Mon  | File Systems III |  | [Chapter 41](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf) | |
+|        | 11/19 Wed  |  Log Structured FS |  | [Chapter 43](https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf) | |
 | Week 13 | 11/24 - 11/30  | Thanksgiving Break | | | Food, sleep, lots of it|
-| Week 14 | 12/01 Mon  | System Reliability | | |  <span style="color:red">Lab 3a due</span> |
-|        | 12/03 Wed  |  Mobile System   | | | |
+| Week 14 | 12/01 Mon  |FSCK and Journaling | | [Chapter 42](https://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf) |  <span style="color:red">Lab 3a due</span> |
+|        | 12/03 Wed  |  System Reliability  | | | |
 | Week 15 | 12/08 Mon  |  Final Review | | | |
 |         | 12/10 Wed  |   <span style="color:red"> **Final Exam** <span style="color:red"> | | |  <span style="color:red">Lab 3b due</span> |
