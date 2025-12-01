@@ -37,7 +37,7 @@ layout: single
 | Week 12 | 11/17 Mon  | File Systems III | [Slides](./slides/18-ffs.pdf)  | [Chapter 41](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf) | |
 |        | 11/19 Wed  |  Log Structured FS | [Slides](./slides/19-lfs.pdf) | [Chapter 43](https://pages.cs.wisc.edu/~remzi/OSTEP/file-lfs.pdf) | |
 | Week 13 | 11/24 - 11/30  | Thanksgiving Break | | | Food, sleep, lots of it|
-| Week 14 | 12/01 Mon  |FSCK and Journaling | | [Chapter 42](https://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf) |  <span style="color:red">Lab 3a due</span> |
+| Week 14 | 12/01 Mon  |FSCK and Journaling | [Slides](./slides/20-journal.pdf) | [Chapter 42](https://pages.cs.wisc.edu/~remzi/OSTEP/file-journaling.pdf) |  <span style="color:red">Lab 3a due</span> |
 |        | 12/03 Wed  |  System Reliability  | | | |
 | Week 15 | 12/08 Mon  |  Final Review | | | |
 |         | 12/10 Wed  |   <span style="color:red"> **Final Exam** <span style="color:red"> | | |  <span style="color:red">Lab 3b due</span> |
