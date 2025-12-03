@@ -16,3 +16,4 @@ Homework problems are optional to help you prepare for exams. They are not to be
 | [Homework 2](./slides/OS_hw2.pdf) |
 | [Homework 3](./slides/OS_hw3.pdf) |
 | [Homework 4](./slides/OS_hw4.pdf) |
+| [Homework 5](./slides/OS_hw5.pdf) |
