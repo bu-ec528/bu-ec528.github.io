@@ -32,8 +32,8 @@ There are five labs in total. Lab0 is designed to prepare you for the later proj
 | [Lab 1: Threads](./projects/lab/lab1.md) | 09/17 | 10/13 11:59 PM EST | Kernel Threads Scheduling | 12 |
 | [Lab 2: User Programs](./projects/lab/lab2.md) | 10/13 | 11/07 11:59 PM EST |  User programs, System calls | 12 |
 | [Lab 3a: Virtual Memory](./projects/lab/lab3.md)  | 10/29 | 12/01 11:59 PM EST |  Demand Paging | 13 |
-| [Lab 3b: Mmap Files](./projects/lab/lab3b.md) | 11/09 |12/10 11:59 PM EST | MMap Files | 12 |
-| [(Optional) Lab4: File Systems](./projects/lab/lab4.md) | 11/16 | / | File System | / | 
+| [Lab 3b: Mmap Files](./projects/lab/lab3b.md) | 11/09 | 12/10 11:59 PM EST | MMap Files | 12 |
+| [(Optional) Lab4: File Systems](./projects/lab/lab4.md) | 11/16 |  12/17 11:59 PM EST  | File System | 20 | 
 
 In each lab, we will provide all the test cases to support your local development. After the deadline, the same test cases will be used to grade your submissions. Rest assured, your teaching assistants will not trick you with obscure corner cases designed to lower your scores.
 
