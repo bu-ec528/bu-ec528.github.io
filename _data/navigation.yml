@@ -1,29 +1,17 @@
 main:
   # ---------- global links ----------
-  - title: "News"
-    url: "/#news"
-  - title: "Publications"
-    url: "/#publications"
-  - title: "Teaching"
-    url: "/#teaching"
-  - title: "Service"
-    url: "/#service"
-  - title: "Team"
-    url: "/team"
-  - title: "Bio"
-    url: "/#bio"
 
-  # ---------- EC440 page links ----------
+  # ---------- ec528 page links ----------
   - title: "Syllabus"
-    url: "/EC440/fall25/"
+    url: "/ec528/fall25/"
   - title: "Schedule"
-    url: "/EC440/fall25/lectures"
+    url: "/ec528/fall25/lectures"
   - title: "Homework"
-    url: "/EC440/fall25/homework"
+    url: "/ec528/fall25/homework"
   - title: "Projects"
-    url: "/EC440/fall25/projects"
+    url: "/ec528/fall25/projects"
     children:
       - title: "Pintos Project Guide"
-        url: "/EC440/fall25/projects/pintos-guide/"
+        url: "/ec528/fall25/projects/pintos-guide/"
   - title: "Piazza"
-    url: "https://piazza.com/bu/fall2025/ec440/home"
+    url: "https://piazza.com/bu/fall2025/ec528/home"
