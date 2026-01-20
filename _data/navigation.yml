@@ -3,15 +3,10 @@ main:
 
   # ---------- ec528 page links ----------
   - title: "Syllabus"
-    url: "/ec528/fall25/"
+    url: "/ec528/spring26/"
   - title: "Schedule"
-    url: "/ec528/fall25/lectures"
-  - title: "Homework"
-    url: "/ec528/fall25/homework"
+    url: "/ec528/spring26/lectures"
   - title: "Projects"
-    url: "/ec528/fall25/projects"
-    children:
-      - title: "Pintos Project Guide"
-        url: "/ec528/fall25/projects/pintos-guide/"
+    url: "/ec528/spring26/projects"
   - title: "Piazza"
-    url: "https://piazza.com/bu/fall2025/ec528/home"
+    url: "https://piazza.com/bu/spring26/ec528/home"
