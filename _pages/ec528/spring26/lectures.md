@@ -17,9 +17,9 @@ layout: single
 |        | 02/04 Wed  | Data-parallel Computation | [Slides](./) | [MapReduce](../../papers/mapreduce-osdi04.pdf),[Hive](../../papers/vldb09-938.pdf) | 
 | Week 4 | 02/09 Mon  | Lab day |  |  | 
 |        | 02/11 Wed  | Fault Tolerance | [Slides](./) | [Raft](../../papers/atc14-paper-ongaro.pdf) | 
-| Week 5 | 02/16 Mon  | Milestone Demo I | | |
-|        | 02/18 Wed  | Data Consistency | [Slides](./) | [Zookeeper](../../papers/Hunt.pdf) | 
-| Week 6 | 02/23 Mon  | Big Data Frameworks | [Slides](./) | [Spark](../../papers/nsdi12-final138.pdf) | 
+| Week 5 | 02/16 Mon  | Data Consistency | [Slides](./) | [Zookeeper](../../papers/Hunt.pdf) |  
+|        | 02/18 Wed  | Big Data Frameworks | [Slides](./) | [Spark](../../papers/nsdi12-final138.pdf) | 
+| Week 6 | 02/23 Mon  | Milestone Demo I | | |
 |        | 02/25 Wed  | Virtualization |  [Slides](./) | [Xen](../../papers/2003-xensosp.pdf) | 
 | Week 7 | 03/02 Mon  |  Datacenter Architectures |[Slides](./)  | [VL2](../../papers/VL2.pdf), [Aquila](../../papers/NSDI22_Aquila.pdf) |
 |        | 03/04 Wed  | Lab day |  |  | 
