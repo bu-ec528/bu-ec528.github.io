@@ -1,5 +1,5 @@
 - title: "Course Introduction"
-  slides: "slides/spring26/1-introduction.pdf"
+  slides: "/slides/spring26/1-introduction.pdf"
   readings:
     - name: "How to Read a Paper"
       link: "/papers/how_to_read.pdf"
