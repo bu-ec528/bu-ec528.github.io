@@ -8,7 +8,7 @@
   note: "Class canceled due to snow day."
 
 - title: "The Rise of Cloud Computing"
-  slides: "./"
+  slides: "/slides/spring26/2-cloud.pdf"
   readings:
     - name: "The Datacenter as a Computer (Chapters 1–3)"
       link: "https://research.google/pubs/the-datacenter-as-a-computer-an-introduction-to-the-design-of-warehouse-scale-machines-second-edition/"
